@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A silly game made for practice
+A silly game made for practice and first use of OOP!
 
 
 
